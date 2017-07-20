@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_domain_black_24dp"
+            android:title="Profile Utero" />
+        <item
+            android:id="@+id/nav_papan"
+            android:icon="@drawable/ic_picture_in_picture_black_24dp"
+            android:title="Papan Nama" />
+        <item
+            android:id="@+id/nav_neon"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Neon Box" />
+        <item
+            android:id="@+id/nav_creators"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Creators" />
+
+    </group>
+
+    <!--<item android:title="Communicate">-->
+    <!--<menu>-->
+    <!--<item-->
+    <!--android:id="@+id/nav_share"-->
+    <!--android:icon="@drawable/ic_menu_share"-->
+    <!--android:title="Share" />-->
+    <!--<item-->
+    <!--android:id="@+id/nav_send"-->
+    <!--android:icon="@drawable/ic_menu_send"-->
+    <!--android:title="Send" />-->
+    <!--</menu>-->
+    <!--</item>-->
+
+</menu>
